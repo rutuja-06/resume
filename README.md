@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello,👋 I'm Rutuja Jogdand<br><br>👩‍💻 About Me<br>👩🏻‍💻 Pronouns: She/Her<br>💼 I’m currently working as a Frontend Engineer at Roku.<br>📋 I've previously worked as a Software Engineer at CRED and Navi.<br>🎒 I've done almost 6-7 internships in frontend primarily.<br>👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms.<br>🧭 I love exploring and working both in frontend and backend.<br>🎭 I love speaking at events and connecting with people.<br><br>technologies<br>HTML, SCSS, CSS, Angular, NodeJs, RestAPI, MongoDB, Typescript, Javascript
+# Hello,👋 I'm Rutuja Jogdand<br><br>👩‍💻 About Me<br>👩🏻‍💻 Pronouns: She/Her<br>💼 I’m currently working as a Frontend Engineer at Buzzfind Tech.<br>🎒 I've done almost 2-3 internships in frontend primarily.<br>🧭 I love exploring and working both in frontend and backend.<br>🎭 I love speaking at events and connecting with people.<br><br>technologies<br>HTML, SCSS, CSS, Angular, NodeJs, RestAPI, MongoDB, Typescript, Javascript
 
 
 ## 🌐 Socials:
